@@ -4,11 +4,6 @@
 
 ##
 <br>
-<div align="center">
-  <a href="https://github.com/Alssousa">
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Alssousa&show_icons=true&theme=merko&include_all_commits=true&count_private=false"/>
-  <img height="200em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alssousa&layout=compact&langs_count=7&theme=merko"/>
-</div>
   
 ### Skills  
 <div style="display: inline_block"><br>
